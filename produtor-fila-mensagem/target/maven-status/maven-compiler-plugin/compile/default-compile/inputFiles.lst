@@ -1,0 +1,7 @@
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/dto/EstoqueDto.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/controller/PrecoController.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/config/RabbitMQConfiguration.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/dto/PrecoDto.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/service/RabbitmqService.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/controller/EstoqueController.java
+/home/ricardo/Documents/projects/produtor-fila-mensagem/src/main/java/com/microservico/estoquepreco/Application.java

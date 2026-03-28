@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: produtor-fila-mensagem
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: ${RABBITMQ_PASSWORD:123456}
+
+rabbitmq:
+  queues:
+    estoque: ESTOQUE
+    preco: PRECO
+
+server:
+  port: 8080

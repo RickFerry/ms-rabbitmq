@@ -1,0 +1,7 @@
+com/microservico/estoquepreco/dto/EstoqueDto.class
+com/microservico/estoquepreco/config/RabbitMQConfiguration.class
+com/microservico/estoquepreco/Application.class
+com/microservico/estoquepreco/controller/EstoqueController.class
+com/microservico/estoquepreco/dto/PrecoDto.class
+com/microservico/estoquepreco/service/RabbitmqService.class
+com/microservico/estoquepreco/controller/PrecoController.class

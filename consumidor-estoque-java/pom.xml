@@ -35,7 +35,12 @@
     <dependency>
       <groupId>org.librabbitmq</groupId>
       <artifactId>librabbitmq</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <scope>annotationProcessor</scope>
     </dependency>
 
   </dependencies>

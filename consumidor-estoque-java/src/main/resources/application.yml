@@ -1,0 +1,23 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: ${RABBITMQ_PASSWORD:123456}
+    listener:
+      type: direct
+      direct:
+        prefetch: 4
+        acknowledge-mode: auto
+    connection-timeout: 5000ms
+    requested-heartbeat: 60s
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.microsservico: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
