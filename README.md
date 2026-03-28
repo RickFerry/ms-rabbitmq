@@ -291,7 +291,7 @@ spring:
     requested-heartbeat: 60s
 
 server:
-  port: 8080
+  port: 8081
 
 logging:
   level:
